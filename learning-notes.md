@@ -10,3 +10,9 @@ and save changes using a commit.
 - Files can be created inside a repository.
 - Changes can be saved using commits.
 - GitHub keeps a history of commits
+## My Goal
+
+I want to learn technical skills
+and contribute to BharatOS.
+Ab commit message:
+Updated my learning goal
